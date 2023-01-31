@@ -1,0 +1,192 @@
+[
+    {  "id": 1,
+        "title": "Tourism",
+        "image_url": "https://i.ibb.co/PwBxQ4Y/2023-01-30-5.png",
+        "live_web": "https://tourism-website-80ca3.web.app/",
+        "git_hub": "https://github.com/DIP-RO/touriosm",
+        "server": "https://github.com/DIP-RO/torisum-server-side",
+        "screenshots": [
+            "https://i.ibb.co/PwBxQ4Y/2023-01-30-5.png"
+        
+        ],
+        "tech": [
+            "ReactJS",
+            "React Query",
+            "React Hook Form",
+            "heruko",
+            "Node JS",
+            "Express JS",
+          
+            "React Router",
+            "Firebase",
+            "JWT"
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+            "Secured By JWT ",
+            " Stripe Payment System",
+            "Modern Design",
+            "Dedicated Admin Panel"
+        ],
+        "details": "This site offers various type of facilities such as booking,review,login,secure data,hospitality.",
+        "keyword": "booking facility,tourism website,recent project,react"
+    },
+ 
+    {  "id": 2,
+        "title": "Code-Fun",
+        "image_url": "https://i.ibb.co/rKB3GPb/2023-01-30.png",
+        "live_web": "https://assignment-10-6406b.web.app/",
+        "git_hub": "https://github.com/DIP-RO/bh-10-assignment",
+        "server": "https://github.com/DIP-RO/assignment10-server-side",
+        "screenshots": [
+            "https://i.ibb.co/Y2PTYqz/2023-01-30-1.png",
+            "https://i.ibb.co/2d7WnR4/2023-01-30-2.png"
+    
+        ],
+        "tech": [
+            "ReactJS",
+            "React Query",
+            "React Hook Form",
+            "Vercel For Api",
+            "Node JS",
+            "Express JS",
+            "Stripe",
+            "Aso Animation",
+            "React Router",
+            "Tailwind",
+            "Firebase",
+            "JWT",
+            "Daisy UI"
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+            "Secured By JWT ",
+            " Stripe Payment System",
+            "Modern Design"
+         
+        ],
+        "details": "before login, you can see: home header/navbar banner 3 courses show contact-us section courses sidenav All Courses show Single course detail after click details button blog answer for 4 question faq answer for 4 question about course login login form registration form ..................after login:home * navbar * logout * user name * user photo * Payment otion access for course",
+        "keyword": "code-fun,recent project,react"
+    },
+   
+    {  "id": 3,
+        "title": "Doctors Portal",
+        "image_url": "https://i.ibb.co/qW42CCQ/doctors-portal.jpg",
+        "live_web": "https://doctors-portal-21807.web.app/",
+        "git_hub": "https://github.com/DIP-RO/doctor-portal",
+        "server": "https://github.com/DIP-RO/doctor-portal-client",
+        "screenshots": [
+            "https://i.ibb.co/9THxfQZ/doctors-portal-21807-web-app.png",
+            "https://i.ibb.co/s14qByR/doctors-portal-21807-web-app-1.png",
+            "https://i.ibb.co/BwnJg5B/doctors-portal-21807-web-app-dashboard.png"
+        ],
+        "tech": [
+            "ReactJS",
+            "Mongo Db",
+            "Node JS",
+            "Express JS",
+            "Aso Animation",
+            "React Router",
+            "Tailwind",
+            "Firebase",
+            "JWT",
+            "Daisy UI"
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+            "Secured By JWT ",
+            " Stripe Payment System",
+            "Modern Design",
+            "Dedicated Admin Panel"
+        ],
+        "details": "Doctors Portal is a site for a Doctor where anyone can take appointment and the patient take appointment .The admin can add doctors and do so much.  The site has a wide variety of features and can be easily customized by the admin . It took me 1 weeks to complete the full site. I am still upgrading this site day by day. It has different types of features such as this site being fully responsive. I use MongoDB for the database. JWT for securing the data. This site has a dedicated Admin panel and Control panel where the admin can easily control the whole website. The admin can post new rooms, delete users, Make admin or moderator, etc. This site has many features but one of my favorite features is the User Experience. Because I took soo much time on the design and also the User Experience. I hope you like the website if you like the site feel free to send me a message on the contact form I will really appreciate that.",
+        "keyword": "doctor portal,recent project,react"
+    },
+    {
+        "id": 4,
+        "title": "Reselling",
+        "image_url": "https://i.ibb.co/j5Gxpbn/2023-01-30-3.png",
+        "live_web": " https://last-project-9bc66.web.app/",
+        "git_hub": "https://github.com/DIP-RO/reselling",
+        "server": "https://github.com/DIP-RO/reselleing-server-side",
+        "screenshots": [
+            "https://i.ibb.co/j5Gxpbn/2023-01-30-3.png",
+          
+            "https://i.ibb.co/4KnLn95/2023-01-30-4.png"
+        ],
+        "tech": [
+            "ReactJS",
+            "Mongo Db",
+            "Node JS",
+            "Express JS",
+            "React Router",
+            "Tailwind",
+            "Firebase",
+            "JWT",
+            "Daisy UI"
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+            "Secured By JWT ",
+            " Stripe Payment System",
+            "Modern Design",
+            "Dedicated Admin Panel"
+        ],
+        "details": "You can buy and sell your mobile through this site....it has also admin acccess and site was secured by jwt token",
+        "keyword": "resale website,recent project,react"
+    },
+    {  "id": 5,
+        "title": "Review-gallery",
+        "image_url": "https://i.ibb.co/bN7Yjxv/2023-01-31.png",
+        "live_web": "https://dipro-teach.web.app",
+        "git_hub": "https://github.com/DIP-RO/review-gallery",
+        "server": "https://github.com/DIP-RO/review-gallery-server",
+        "tech": [
+            "ReactJS",
+            "Mongo Db",
+            "Node JS",
+            "Express JS",
+            "React Router",
+            "Tailwind",
+            "Firebase",
+            "Daisy UI"
+        ],
+        "screenshots": [
+            "https://i.ibb.co/bN7Yjxv/2023-01-31.png",
+            "https://i.ibb.co/n8k41mw/2023-01-31-2.png"
+         
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+            "Secured By JWT ",
+            " Stripe Payment System",
+            "Modern Design"
+        ],
+        "details": "You can visit a photographic gallery and can giving rating and feedback.and choose picture thorugh the customer review",
+        "keyword": "Review gallery,recent project,react"
+    },
+    {  "id": 6,
+        "title": "Quiz-Test",
+        "image_url": "https://i.ibb.co/JyMnkZD/2023-01-31-3.png",
+        "live_web": "https://eloquent-croissant-bf1dc9.netlify.app",
+        "git_hub": "https://github.com/DIP-RO/Quiz-Project",
+        
+        "tech": [
+            "ReactJS",
+            "Node JS",
+            "Express JS"
+        ],
+        "screenshots": [
+            "https://i.ibb.co/JyMnkZD/2023-01-31-3.png",
+            "https://i.ibb.co/Y8Bnh46/2023-01-31-4.png",
+            "https://i.ibb.co/vz4z5cC/2023-01-31-5.png"
+        ],
+        "features": [
+            "Fully Responsive for Mobile Devices",
+         
+            "Modern Design"
+        ],
+        "details": "You can test youself through this site",
+        "keyword": "Quiz-Test,recent project,react"
+    }
+]
